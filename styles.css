@@ -14,15 +14,19 @@ h2 {
   font-family: georgia, serif;
   font-weight: bold;
   text-decoration: blue underline;
-  
 }
+.skills-header span{
+  color: rebeccapurple;
+}
+
 h3 {
   font-family: georgia, serif;
   font-weight: bold;
   text-decoration: blue underline;
 }
+
 ul {
-  text-decoration-color: red;
+  color: red;
 
 }
 
