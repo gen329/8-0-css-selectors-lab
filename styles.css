@@ -1,4 +1,28 @@
 /* Write your CSS below. */
+    body {
+      text-align: center;
+    }
+    p {
+      font-family: helvetica, sans-serif;
+    }
+    h1 {
+      font-family: georgia, serif;
+      font-weight: bold;
+      text-decoration: blue underline;
+    }
+    
+    h2 {
+      font-family: georgia, serif;
+      font-weight: bold;
+      text-decoration: blue underline;
+    }
+    h3 {
+      font-family: georgia, serif;
+      font-weight: bold;
+      text-decoration: blue underline;
+    }
+
+
 
 /* Do not change any CSS below this line. */
 h1 {
