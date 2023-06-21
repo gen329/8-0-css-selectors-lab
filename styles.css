@@ -15,20 +15,18 @@ h2 {
   font-weight: bold;
   text-decoration: blue underline;
 }
-.skills-header span{
+.skills-header {
   color: rebeccapurple;
+  list-style-image: url(assets/globe.png)
 }
-
 h3 {
   font-family: georgia, serif;
   font-weight: bold;
   text-decoration: blue underline;
 }
-
-ul {
+a {
   color: red;
-
-}
+  }
 
 
 /* Do not change any CSS below this line. */
